@@ -1,1 +1,3 @@
-# learn-web-dev
+# Learn Web Dev
+
+Learning web development by following [@kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap).
