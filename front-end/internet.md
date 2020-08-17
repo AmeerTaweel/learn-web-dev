@@ -20,3 +20,8 @@
 * [Wikipedia: QUIC](https://en.wikipedia.org/wiki/QUIC) - Article.
 * [HTTP3: HTTP/3 with QUIC protocol](https://http3.net/) - Article.
 * [Cloudflare: HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/) - Article.
+
+## Browsers and how they work
+
+* [Monica Raghuwanshi @ Medium: How does web browsers work?](https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509) - Article.
+* [Alex Nadalin @ Medium: How Browsers Work](https://medium.com/free-code-camp/web-application-security-understanding-the-browser-5305ed2f1dac) - Article.
