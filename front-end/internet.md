@@ -25,3 +25,6 @@
 
 * [Monica Raghuwanshi @ Medium: How does web browsers work?](https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509) - Article.
 * [Alex Nadalin @ Medium: How Browsers Work](https://medium.com/free-code-camp/web-application-security-understanding-the-browser-5305ed2f1dac) - Article.
+* [Alex McPeak @ CrossBrowserTesting: A Brief History of Web Browsers and How They Work](https://crossbrowsertesting.com/blog/test-automation/history-of-web-browsers/) - Article.
+* [Tali Garsiel @ HTML5 Rocks: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) - Article.
+* [Anton Paras @ Medium: Notes on “How Browsers Work”](https://codeburst.io/how-browsers-work-6350a4234634) - Article.
