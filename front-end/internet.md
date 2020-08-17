@@ -15,3 +15,8 @@
 * [Traversy Media: HTTP Crash Course & Exploration](https://youtu.be/iYM2zFP3Zn0) - YouTube Video.
 * [MDN Web Docs: HTTP/2](https://developer.mozilla.org/en-US/docs/Glossary/HTTP_2) - Article.
 * [Google Developers: Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2) - Article.
+* [Kinsta: What is HTTP/2 – The Ultimate Guide](https://kinsta.com/learn/what-is-http2/) - Article.
+* [MDN Web Docs: HTTP/3](https://developer.mozilla.org/en-US/docs/Glossary/HTTP_3) - Article.
+* [Wikipedia: QUIC](https://en.wikipedia.org/wiki/QUIC) - Article.
+* [HTTP3: HTTP/3 with QUIC protocol](https://http3.net/) - Article.
+* [Cloudflare: HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/) - Article.
