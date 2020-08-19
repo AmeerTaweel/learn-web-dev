@@ -28,3 +28,9 @@
 * [Alex McPeak @ CrossBrowserTesting: A Brief History of Web Browsers and How They Work](https://crossbrowsertesting.com/blog/test-automation/history-of-web-browsers/) - Article.
 * [Tali Garsiel @ HTML5 Rocks: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) - Article.
 * [Anton Paras @ Medium: Notes on “How Browsers Work”](https://codeburst.io/how-browsers-work-6350a4234634) - Article.
+
+## DNS and how it works
+
+* [the roadmap: DNS and How does it work?](https://youtu.be/Wj0od2ag5sk) - YouTube Video.
+* [Kamran Ahmed @ Developer Roadmaps: DNS in One Picture](https://roadmap.sh/guides/dns-in-one-picture) - Article.
+* [Keith Shaw @ NetworkWorld: What is DNS and how does it work?](https://www.networkworld.com/article/3268449/what-is-dns-and-how-does-it-work.html) - Article.
