@@ -29,6 +29,11 @@
 * [Tali Garsiel @ HTML5 Rocks: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) - Article.
 * [Anton Paras @ Medium: Notes on “How Browsers Work”](https://codeburst.io/how-browsers-work-6350a4234634) - Article.
 
+## What is a Domain Name
+
+* [Jeremy Laukkonen @ Lifewire: What Is a Domain Name?](https://www.lifewire.com/what-is-a-domain-name-2483189) - Article.
+* [Wikipedia: Domain name](https://en.wikipedia.org/wiki/Domain_name) - Article.
+
 ## DNS and how it works
 
 * [the roadmap: DNS and How does it work?](https://youtu.be/Wj0od2ag5sk) - YouTube Video.
