@@ -39,6 +39,7 @@
 * [the roadmap: DNS and How does it work?](https://youtu.be/Wj0od2ag5sk) - YouTube Video.
 * [Kamran Ahmed @ Developer Roadmaps: DNS in One Picture](https://roadmap.sh/guides/dns-in-one-picture) - Article.
 * [Keith Shaw @ NetworkWorld: What is DNS and how does it work?](https://www.networkworld.com/article/3268449/what-is-dns-and-how-does-it-work.html) - Article.
+* [Bradley Mitchell @ Lifewire: What Does Dynamic DNS Mean?](https://www.lifewire.com/definition-of-dynamic-dns-816294) - Article.
 
 ## What is Web Hosting
 
