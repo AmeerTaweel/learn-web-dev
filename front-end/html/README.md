@@ -19,3 +19,14 @@
 * [Wikipedia: Quirks mode](https://en.wikipedia.org/wiki/Quirks_mode) - Article.
 * [StackOverflow: Why do I need a doctype?](https://stackoverflow.com/questions/6076432/why-do-i-need-a-doctype-what-does-it-do) - Discussion.
 * [StackOverflow: what is `<meta charset="utf-8">`?](https://stackoverflow.com/questions/29869743/what-is-meta-charset-utf-8) - Discussion.
+* [MDN Web Docs: Metadata](https://developer.mozilla.org/en-US/docs/Glossary/Metadata) - Article.
+* [MDN Web Docs: `<meta>`: The Document-level Metadata element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta) - Article.
+* [MDN Web Docs: Standard metadata names](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name) - Article.
+* [MDN Web Docs: `<title>`: The Document Title element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title) - Article.
+* [MDN Web Docs: `<style>`: The Style Information element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style) - Article.
+* [MDN Web Docs: `<script>`: The Script element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script) - Article.
+* [MDN Web Docs: `<base>`: The Document Base URL element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base) - Article.
+* [MDN Web Docs: `<link>`: The External Resource Link element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link) - Article.
+* [MDN Web Docs: Link types](https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types) - Article.
+* [MDN Web Docs: Preloading content with rel="preload"](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content) - Article.
+* [MDN Web DocS: lang](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang) - Article.
