@@ -32,3 +32,5 @@
 * [MDN Web Docs: lang](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang) - Article.
 * [MDN Web Docs: `<time>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time) - Article.
 * [MDN Web Docs: HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - Article.
+* [MDN Web Docs: Information architecture](https://developer.mozilla.org/en-US/docs/Glossary/Information_architecture) - Article.
+* [MDN Web Docs: Card sorting](https://developer.mozilla.org/en-US/docs/Glossary/Card_sorting) - Article.
