@@ -29,4 +29,6 @@
 * [MDN Web Docs: `<link>`: The External Resource Link element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link) - Article.
 * [MDN Web Docs: Link types](https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types) - Article.
 * [MDN Web Docs: Preloading content with rel="preload"](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content) - Article.
-* [MDN Web DocS: lang](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang) - Article.
+* [MDN Web Docs: lang](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang) - Article.
+* [MDN Web Docs: `<time>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time) - Article.
+* [MDN Web Docs: HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - Article.
