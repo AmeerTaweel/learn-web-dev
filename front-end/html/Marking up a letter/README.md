@@ -30,4 +30,4 @@ For this project, your task is to mark up a letter that needs to be hosted on a 
 * The author of the letter should be specified in an appropriate meta tag.
 * The provided CSS should be included inside an appropriate tag.
 
-More about the assessment [here](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter).
+[More about the assessment](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter).
