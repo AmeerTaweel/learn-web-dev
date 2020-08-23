@@ -44,9 +44,12 @@
 * [Cory House @ PLURALSIGHT: HTML5 Web Components: The Solution to Div Soup?](https://www.pluralsight.com/blog/software-development/html5-web-components-overview) - Article.
 * [Thomas Guibert @ Better Programming: 10 Handy HTML Tags I’ll Use More Often…](https://medium.com/better-programming/10-handy-html-tags-ill-use-more-often-914a97efc3fb) - Article.
 * [Adrian Legaspi @ ITNEXT: HTML: Underrated tags](https://itnext.io/html-underrated-tags-119ef3e45b94) - Article.
-* [Pearl Chen @ HTML5 Rocks: Built-in Browser Support for Responsive Images](https://www.html5rocks.com/en/tutorials/responsive/picture-element/) - Article.
+* [Shlok Desai @ Medium: Paying Attention to the Details](https://medium.com/walmartglobaltech/paying-attention-to-details-eb0c43d0b02b) - Article.
 
 ## HTML Conventions and Best Practices
 
 * [WebP: A new image format for the Web](https://developers.google.com/speed/webp/) - Article.
 * [Dan Klammer @ Lightspeed: How to Use AVIF: The New Next-Gen Image Compression Format](https://reachlightspeed.com/blog/using-the-new-high-performance-avif-image-format-on-the-web-today/) - Article.
+* [Pearl Chen @ HTML5 Rocks: Built-in Browser Support for Responsive Images](https://www.html5rocks.com/en/tutorials/responsive/picture-element/) - Article.
+* [Andreas Bovens @ Dev.Opera: Responsive Images: Use Cases and Documented Code Snippets to Get You Started](https://dev.opera.com/articles/responsive-images/) - Article.
+* [Yoav Weiss @ Dev.Opera: Native Responsive Images](https://dev.opera.com/articles/native-responsive-images/) - Article.
