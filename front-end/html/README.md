@@ -34,3 +34,14 @@
 * [MDN Web Docs: HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - Article.
 * [MDN Web Docs: Information architecture](https://developer.mozilla.org/en-US/docs/Glossary/Information_architecture) - Article.
 * [MDN Web Docs: Card sorting](https://developer.mozilla.org/en-US/docs/Glossary/Card_sorting) - Article.
+
+## Writing Semantic HTML
+
+* [MDN Web Docs: Semantics](https://developer.mozilla.org/en-US/docs/Glossary/semantics) - Article.
+* [Zac Heisey @ Medium: 7 Alternatives to the `<div>` HTML Tag](https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036) - Article.
+* [Lifewire: Why Use Semantic HTML?](https://www.lifewire.com/why-use-semantic-html-3468271) - Article.
+* [MDN Web Docs: Using HTML sections and outlines](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines) - Article.
+* [Cory House @ PLURALSIGHT: HTML5 Web Components: The Solution to Div Soup?](https://www.pluralsight.com/blog/software-development/html5-web-components-overview) - Article.
+* [Thomas Guibert @ Better Programming: 10 Handy HTML Tags I’ll Use More Often…](https://medium.com/better-programming/10-handy-html-tags-ill-use-more-often-914a97efc3fb) - Article.
+* [Adrian Legaspi @ ITNEXT: HTML: Underrated tags](https://itnext.io/html-underrated-tags-119ef3e45b94) - Article.
+* [Pearl Chen @ HTML5 Rocks: Built-in Browser Support for Responsive Images](https://www.html5rocks.com/en/tutorials/responsive/picture-element/) - Article.
