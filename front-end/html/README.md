@@ -45,3 +45,8 @@
 * [Thomas Guibert @ Better Programming: 10 Handy HTML Tags I’ll Use More Often…](https://medium.com/better-programming/10-handy-html-tags-ill-use-more-often-914a97efc3fb) - Article.
 * [Adrian Legaspi @ ITNEXT: HTML: Underrated tags](https://itnext.io/html-underrated-tags-119ef3e45b94) - Article.
 * [Pearl Chen @ HTML5 Rocks: Built-in Browser Support for Responsive Images](https://www.html5rocks.com/en/tutorials/responsive/picture-element/) - Article.
+
+## HTML Conventions and Best Practices
+
+* [WebP: A new image format for the Web](https://developers.google.com/speed/webp/) - Article.
+* [Dan Klammer @ Lightspeed: How to Use AVIF: The New Next-Gen Image Compression Format](https://reachlightspeed.com/blog/using-the-new-high-performance-avif-image-format-on-the-web-today/) - Article.
