@@ -56,6 +56,14 @@
 * [Pearl Chen @ HTML5 Rocks: Built-in Browser Support for Responsive Images](https://www.html5rocks.com/en/tutorials/responsive/picture-element/) - Article.
 * [Andreas Bovens @ Dev.Opera: Responsive Images: Use Cases and Documented Code Snippets to Get You Started](https://dev.opera.com/articles/responsive-images/) - Article.
 * [Yoav Weiss @ Dev.Opera: Native Responsive Images](https://dev.opera.com/articles/native-responsive-images/) - Article.
+* [MDN Web Docs: Autoplay guide for media and Web Audio APIs](https://developer.mozilla.org/en-US/docs/Web/Media/Autoplay_guide) - Article.
+* [MDN Web Docs: Media type and format guide: image, audio, and video content](https://developer.mozilla.org/en-US/docs/Web/Media/Formats) - Article.
+* [MDN Web Docs: Web media technologies](https://developer.mozilla.org/en-US/docs/Web/Media) - Article.
+* [MDN Web Docs: Audio and Video Delivery](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery) - Article.
+* [MDN Web Docs: Web audio codec guide](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs) - Article.
+* [MDN Web Docs: Web video codec guide](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs) - Article.
+* [MDN Web Docs: Media container formats (file types)](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Containers) - Article.
+* [altlab: What is hotlinking and bandwidth theft](http://altlab.com/hotlinking.html) - Article.
 
 ## Accessibility
 
