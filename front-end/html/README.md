@@ -8,6 +8,7 @@
 
 ## Learning the basics
 
+* [LinedIn Learning: HTML Essential Training](https://www.linkedin.com/learning/html-essential-training-4/) - Course.
 * [MDN Web Docs: Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) - Course.
 * [MDN Web Docs: Block-level elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements) - Article.
 * [MDN Web Docs: Inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements) - Article.
