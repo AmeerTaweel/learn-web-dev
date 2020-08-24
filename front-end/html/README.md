@@ -56,3 +56,7 @@
 * [Pearl Chen @ HTML5 Rocks: Built-in Browser Support for Responsive Images](https://www.html5rocks.com/en/tutorials/responsive/picture-element/) - Article.
 * [Andreas Bovens @ Dev.Opera: Responsive Images: Use Cases and Documented Code Snippets to Get You Started](https://dev.opera.com/articles/responsive-images/) - Article.
 * [Yoav Weiss @ Dev.Opera: Native Responsive Images](https://dev.opera.com/articles/native-responsive-images/) - Article.
+
+## Accessibility
+
+* [W3C: Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/) - Specification.
