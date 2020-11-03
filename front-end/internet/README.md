@@ -20,6 +20,7 @@
 * [Wikipedia: QUIC](https://en.wikipedia.org/wiki/QUIC) - Article.
 * [HTTP3: HTTP/3 with QUIC protocol](https://http3.net/) - Article.
 * [Cloudflare: HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/) - Article.
+* [the roadmap: Everything you need to know about HTTP Caching](https://youtu.be/HiBDZgTNpXY) - YouTube Video.
 
 ## Browsers and how they work
 
@@ -40,9 +41,16 @@
 * [Kamran Ahmed @ Developer Roadmaps: DNS in One Picture](https://roadmap.sh/guides/dns-in-one-picture) - Article.
 * [Keith Shaw @ NetworkWorld: What is DNS and how does it work?](https://www.networkworld.com/article/3268449/what-is-dns-and-how-does-it-work.html) - Article.
 * [Bradley Mitchell @ Lifewire: What Does Dynamic DNS Mean?](https://www.lifewire.com/definition-of-dynamic-dns-816294) - Article.
+* [the roadmap: DNS Records](https://youtu.be/7lxgpKh_fRY) - YouTube Video.
 
 ## What is Web Hosting
 
 * [Website.com: What is Web Hosting?](https://www.website.com/beginnerguide/webhosting/6/1/what-is-web-hosting) - Article.
 * [techopedia: Hosting](https://www.techopedia.com/definition/29023/web-hosting) - Article.
 * [Wikipedia: Web hosting service](https://en.wikipedia.org/wiki/Web_hosting_service) - Article.
+
+## Networking
+
+* [the roadmap: Load Balancers 101](https://youtu.be/galcDRNd5Ow) - YouTube Video.
+* [the roadmap: Content Delivery Networks](https://youtu.be/6DXEPcXKQNY) - YouTube Video.
+* [the roadmap: OSI Model - Explained Visually](https://youtu.be/dV8mjZd1OtU) - YouTube Video.
