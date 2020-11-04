@@ -76,3 +76,7 @@ HTML Conventions and Best Practices* [MDN Web Docs: Web Video Text Tracks Format
 ## SEO Basics
 
 * [MDN Web Docs: SEO](https://developer.mozilla.org/en-US/docs/Glossary/SEO) - Article.
+
+## Others
+
+* [Browser-level image lazy-loading for the web](https://web.dev/browser-level-image-lazy-loading/) - Article.
