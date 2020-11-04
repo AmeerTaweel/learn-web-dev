@@ -22,6 +22,7 @@
 * [StackOverflow: what is `<meta charset="utf-8">`?](https://stackoverflow.com/questions/29869743/what-is-meta-charset-utf-8) - Discussion.
 * [MDN Web Docs: Metadata](https://developer.mozilla.org/en-US/docs/Glossary/Metadata) - Article.
 * [MDN Web Docs: `<meta>`: The Document-level Metadata element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta) - Article.
+
 * [MDN Web Docs: Standard metadata names](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name) - Article.
 * [MDN Web Docs: `<title>`: The Document Title element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title) - Article.
 * [MDN Web Docs: `<style>`: The Style Information element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style) - Article.
