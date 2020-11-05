@@ -21,6 +21,7 @@
 * [HTTP3: HTTP/3 with QUIC protocol](https://http3.net/) - Article.
 * [Cloudflare: HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/) - Article.
 * [the roadmap: Everything you need to know about HTTP Caching](https://youtu.be/HiBDZgTNpXY) - YouTube Video.
+* [Why HTTPS matters](https://web.dev/why-https-matters/) - YouTube Video.
 
 ## Browsers and how they work
 
