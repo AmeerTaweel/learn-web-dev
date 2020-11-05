@@ -3,6 +3,7 @@
 ## Learn the basics
 
 * [MDN Web Docs: CSS — Styling the Web](https://developer.mozilla.org/en-US/docs/Learn/CSS) - Course.
+* [MDN Web Docs: CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors) - Article.
 
 ## Others
 
@@ -20,3 +21,4 @@
 * [Ethan Marcotte @ A List Apart: Responsive Web Design](https://alistapart.com/article/responsive-web-design/) - Article.
 * [MDN Web Docs: Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) - Article.
 * [MDN Web Docs: Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag) - Article.
+* [About normalize.css](http://nicolasgallagher.com/about-normalize-css/) - Article.
