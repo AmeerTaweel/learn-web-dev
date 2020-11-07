@@ -55,3 +55,4 @@
 * [the roadmap: Load Balancers 101](https://youtu.be/galcDRNd5Ow) - YouTube Video.
 * [the roadmap: Content Delivery Networks](https://youtu.be/6DXEPcXKQNY) - YouTube Video.
 * [the roadmap: OSI Model - Explained Visually](https://youtu.be/dV8mjZd1OtU) - YouTube Video.
+* [the roadmap: TCP/IP Model Explained](https://youtu.be/F5rni9fr1yE) - YouTube Video.
