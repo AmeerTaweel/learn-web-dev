@@ -72,3 +72,8 @@
 HTML Conventions and Best Practices* [MDN Web Docs: Web Video Text Tracks Format (WebVTT)](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API#Tutorial_on_how_to_write_a_WebVTT_file) - Article.
 * [MDN Web Docs: `<track>`: The Embed Text Track element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track) - Article.
 * [MDN Web Docs: Adding captions and subtitles to HTML5 video](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video) - Article.
+* [MDN Web Docs: Accessibility — Make the web usable by everyone](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) - Course.
+
+## Forms and Validations
+
+* [MDN Web Docs: Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms) - Course.
