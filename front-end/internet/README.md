@@ -56,3 +56,4 @@
 * [the roadmap: Content Delivery Networks](https://youtu.be/6DXEPcXKQNY) - YouTube Video.
 * [the roadmap: OSI Model - Explained Visually](https://youtu.be/dV8mjZd1OtU) - YouTube Video.
 * [the roadmap: TCP/IP Model Explained](https://youtu.be/F5rni9fr1yE) - YouTube Video.
+* [the roadmap: Transport Protocols: TCP and UDP](https://youtu.be/37AFBZv4_6Y) - YouTube Video.
