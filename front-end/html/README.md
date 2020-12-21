@@ -80,3 +80,4 @@ HTML Conventions and Best Practices* [MDN Web Docs: Web Video Text Tracks Format
 * [An Extensive Guide To Web Form Usability](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/) - Article.
 * [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 1)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/) - Article.
 * [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 2)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-2/) - Article.
+* [Form-Field Validation: The Errors-Only Approach](https://www.smashingmagazine.com/2012/06/form-field-validation-errors-only-approach/) - Article.
